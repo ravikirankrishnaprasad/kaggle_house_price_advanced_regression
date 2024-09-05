@@ -1,4 +1,5 @@
-# kaggle_house_price_advanced_regression
+# House Prices - Advanced Regression Techniques
+
 
 ## Competition Description
 
